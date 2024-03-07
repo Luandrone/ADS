@@ -1,0 +1,10 @@
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\bin\Debug\AdicionarImagens.exe.config
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\bin\Debug\AdicionarImagens.exe
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\bin\Debug\AdicionarImagens.pdb
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.form1.resources
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.Properties.Resources.resources
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.csproj.GenerateResource.cache
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.exe
+C:\Users\Luan\source\repos\AdicionarImagens\AdicionarImagens\obj\Debug\AdicionarImagens.pdb

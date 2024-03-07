@@ -1,0 +1,10 @@
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\bin\Debug\NanodegreeWindowsForm.exe.config
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\bin\Debug\NanodegreeWindowsForm.exe
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\bin\Debug\NanodegreeWindowsForm.pdb
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.Form1.resources
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.Properties.Resources.resources
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.csproj.GenerateResource.cache
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.exe
+C:\Users\Luan\source\repos\NanodegreeWindowsForm\NanodegreeWindowsForm\obj\Debug\NanodegreeWindowsForm.pdb

@@ -1,0 +1,7 @@
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\bin\Debug\Exercicios_Jogos2D.exe.config
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\bin\Debug\Exercicios_Jogos2D.exe
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\bin\Debug\Exercicios_Jogos2D.pdb
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\obj\Debug\Exercicios_Jogos2D.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\obj\Debug\Exercicios_Jogos2D.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\obj\Debug\Exercicios_Jogos2D.exe
+C:\Users\Luan\source\repos\Exercicios_Jogos2D\Exercicios_Jogos2D\obj\Debug\Exercicios_Jogos2D.pdb

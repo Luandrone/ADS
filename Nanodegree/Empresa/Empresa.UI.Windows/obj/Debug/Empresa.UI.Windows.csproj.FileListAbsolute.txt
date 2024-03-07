@@ -1,0 +1,11 @@
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\bin\Debug\Empresa.UI.Windows.exe.config
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\bin\Debug\Empresa.UI.Windows.exe
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\bin\Debug\Empresa.UI.Windows.pdb
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.Properties.Resources.resources
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.GenerateResource.cache
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.exe
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.pdb
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.ClienteIncluirForm.resources
+C:\Users\Luan\source\repos\Empresa\Empresa.UI.Windows\obj\Debug\Empresa.UI.Windows.PrincipalForm.resources

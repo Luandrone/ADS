@@ -1,0 +1,16 @@
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\PrimeiroProgramaNanodegree.exe
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\PrimeiroProgramaNanodegree.deps.json
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\PrimeiroProgramaNanodegree.runtimeconfig.json
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\PrimeiroProgramaNanodegree.runtimeconfig.dev.json
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\PrimeiroProgramaNanodegree.dll
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\ref\PrimeiroProgramaNanodegree.dll
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\bin\Debug\net5.0\PrimeiroProgramaNanodegree.pdb
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.AssemblyInfoInputs.cache
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.AssemblyInfo.cs
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.dll
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\ref\PrimeiroProgramaNanodegree.dll
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.pdb
+C:\Users\Luan\source\repos\PrimeiroProgramaNanodegree\PrimeiroProgramaNanodegree\obj\Debug\net5.0\PrimeiroProgramaNanodegree.genruntimeconfig.cache

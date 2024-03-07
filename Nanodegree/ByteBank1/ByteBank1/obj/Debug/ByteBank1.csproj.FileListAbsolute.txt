@@ -1,0 +1,7 @@
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\bin\Debug\ByteBank1.exe.config
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\bin\Debug\ByteBank1.exe
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\bin\Debug\ByteBank1.pdb
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\obj\Debug\ByteBank1.csproj.AssemblyReference.cache
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\obj\Debug\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\obj\Debug\ByteBank1.exe
+C:\Users\Luan\source\repos\ByteBank1\ByteBank1\obj\Debug\ByteBank1.pdb
